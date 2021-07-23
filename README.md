@@ -1,2 +1,2 @@
 # data-prdiction
-consit data about canada_per_capita_income
+conntain data about canada_per_capita_income a year
